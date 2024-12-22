@@ -72,8 +72,8 @@ With deep knowledge and experience specializing in AI industry and full stack we
       <h3 align="center">VERSD</h3>
       <p align="center">
         <br/>
-        <a href="https://play.google.com/store/apps/details?id=co.versd&pcampaignid=web_share">
-          <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white](https://play.google.com/store/apps/details?id=co.versd&pcampaignid=web_share)"/>
+        <a href="https://play.google.com/store/apps/details?id=co.versd&pcampaignid=web_share" target="_blank">
+          <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white]"/>
         </a>
       </p>
     </td>
@@ -81,13 +81,40 @@ With deep knowledge and experience specializing in AI industry and full stack we
       <h3 align="center">Joie</h3>
       <p align="center">
         <br/>
-        <a href="https://apps.apple.com/vn/app/joie-joy-allegria-furaha/id6504542719">
+        <a href="https://apps.apple.com/vn/app/joie-joy-allegria-furaha/id6504542719" target="_blank">
           <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/>
         </a>
-        <a href="[play-store-link](https://play.google.com/store/apps/details?id=com.wejoie.app&pcampaignid=web_share)">
-          <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white](https://play.google.com/store/apps/details?id=com.wejoie.app&pcampaignid=web_share)"/>
+        <a href="https://play.google.com/store/apps/details?id=com.wejoie.app&pcampaignid=web_share" target="_blank">
+          <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white]"/>
         </a>
       </p>
     </td>
-  </tr>
+    </tr>
+  <tr height="20px"></tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Bubstreet</h3>
+        <p align="center">
+          <br/>
+          <a href="https://apps.apple.com/vn/app/bubstreet/id1599647405" target="_blank">
+            <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/>
+          </a>
+          <a href="https://play.google.com/store/apps/details?id=com.bubstreet&pcampaignid=web_share" target="_blank">
+            <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white]"/>
+          </a>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">Kifaayat</h3>
+        <p align="center">
+          <br/>
+          <a href="https://apps.apple.com/vn/app/kifaayat/id6529527634" target="_blank">
+            <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/>
+          </a>
+          <a href="https://play.google.com/store/apps/details?id=shop.kifaayat.app.prod&pcampaignid=web_share" target="_blank">
+            <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white]"/>
+          </a>
+        </p>
+      </td>
+    </tr>
 </table>
