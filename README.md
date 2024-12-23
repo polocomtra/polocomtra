@@ -41,7 +41,7 @@ With deep knowledge and experience specializing in AI industry and full stack we
 
 ## 📫 Let's Connect!
 <p align="center">
-  <a href="mailto:nguyentientai.3325@gmail.com">
+  <a href="mailto:tainguyen1997kk9@gmail.com">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="email" width="40" height="40"/>
   </a>
 </p>
